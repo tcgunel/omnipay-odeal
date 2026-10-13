@@ -1,0 +1,4 @@
+HTTP/1.1 200 OK
+Content-Type: application/json
+
+{"accessToken":"test-token-2","refreshToken":null,"tokenType":"bearer","expiresIn":1799,"scope":"vpos"}

@@ -1,0 +1,4 @@
+HTTP/1.1 200 OK
+Content-Type: application/json
+
+{"result":{"bank_code":"0062","order":{"reference_id":"REF124","id":"123456790","status":"FAILED","result_code":"51"},"payment_status":"FAILED"}}

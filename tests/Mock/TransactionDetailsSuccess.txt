@@ -1,0 +1,4 @@
+HTTP/1.1 200 OK
+Content-Type: application/json
+
+{"result":{"transactionDetail":{"id":123456789,"externalId":"ORDER-12345","status":"COMPLETED","amount":25.00,"createdDate":1699999999000,"createdDateFormatted":"2023-11-14 22:13:19","refundedAmount":5.00,"refunds":[{"id":1,"amount":5.00,"refundReason":"Musteri talebi","reasonType":"REQUESTEDBYCUSTOMER","status":"REFUND","createdDate":1700000000000,"createdDateFormatted":"2023-11-14 22:13:20"}]}}}

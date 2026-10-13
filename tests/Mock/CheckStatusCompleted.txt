@@ -1,0 +1,4 @@
+HTTP/1.1 200 OK
+Content-Type: application/json
+
+{"result":{"vpos":{"id":"1","name":"Test Vpos","commission_rate":"1.5","acquirer":"BANK"},"bank_code":"0062","order":{"reference_id":"REF123","id":"123456789","status":"COMPLETED","result_code":"00","auth_code":"AUTH01"},"payment_status":"COMPLETED"}}

@@ -1,0 +1,4 @@
+HTTP/1.1 200 OK
+Content-Type: application/json
+
+{"result":{"id":987654322,"message":"3D dogrulama gereklidir","force3DPayment":true,"success":true}}

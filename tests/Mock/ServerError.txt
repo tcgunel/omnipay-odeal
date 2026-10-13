@@ -1,0 +1,4 @@
+HTTP/1.1 500 Internal Server Error
+Content-Type: application/json
+
+{"result":{"message":"Beklenmeyen bir hata olustu","success":false}}

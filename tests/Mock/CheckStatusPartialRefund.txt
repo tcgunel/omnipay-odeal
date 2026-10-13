@@ -1,0 +1,4 @@
+HTTP/1.1 200 OK
+Content-Type: application/json
+
+{"result":{"order":{"id":"123456789","status":"REFUND","result_code":"00"},"payment_status":"PARTIAL REFUND"}}
