@@ -4,7 +4,6 @@
     "description": "Omnipay extension for Ödeal - 3D/Non-3D virtual POS payments, pay-by-link, cancel, refund and transaction queries",
     "keywords": [
         "odeal",
-        "ödeal",
         "sanal pos",
         "virtual pos",
         "3d secure",
